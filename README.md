@@ -9,7 +9,7 @@
 
 # Objectives and Key Results (OKR)
 
-<img src="README.png" alt="Objective" style="width: 100%;"/>
+<!--- <img src="README.png" alt="Objective" style="width: 100%;"/> --->
 
 Contents:
 - [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
